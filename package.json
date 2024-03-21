@@ -1,0 +1,28 @@
+{
+  "name": "quodest",
+  "version": "1.0.0",
+  "main": "./lib/libxml-to-js.js",
+  "description": "XML to JavaScript object parser based on libxmljs",
+  "dependencies": {
+    "libxmljs": ">=0.x"
+  },
+  "engines": {
+    "node": ">=0.4.x"
+  },
+  "author": "KirkFerry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BraxtonHermann/quodest.git"
+  },
+  "keywords": [
+    "xml",
+    "javascript",
+    "object",
+    "parser",
+    "libxml",
+    "libxmljs",
+    "namespace",
+    "consequuntur",
+    "totam"
+  ]
+}
